@@ -1,0 +1,5 @@
+{
+  "name": "Tableau de Bord Dégâts - UG Tardenois",
+  "description": "Application de suivi et d'analyse des dégâts de grand gibier sur l'unité de gestion du Tardenois.",
+  "requestFramePermissions": []
+}
